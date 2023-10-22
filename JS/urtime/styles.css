@@ -1,0 +1,42 @@
+body {
+    font-family: 'Patrick Hand', 'sans-serif';
+}
+
+.border-box {
+    border: 7px solid black;
+    border-radius: 20px;
+    height: 90vh;
+}
+
+#timezone {
+    font-size: 25px;
+    color: #747474;
+    font-style: italic;
+}
+
+#change-timezone {
+    height: 20px;
+    margin-left: 5px;
+}
+
+#time {
+    font-size: 200px;
+    line-height: 80%;
+}
+
+#tt {
+    font-size: 50px;
+    line-height: 0;
+}
+
+#date {
+    font-size: 40px;
+    font-style: italic;
+    color: #525252;
+}
+
+.select-menu {
+    border: 3px solid black;
+    border-radius: 6px;
+    font-weight: bold;
+}
