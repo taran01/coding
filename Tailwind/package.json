@@ -1,0 +1,15 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build -i src/style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "Taranveer Singh",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
